@@ -11,6 +11,8 @@ public class Springboot01ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
+		System.err.println("测试代码");
 	}
 
 }
