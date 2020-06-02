@@ -13,7 +13,7 @@ public class Springboot01Application {
 		//这是我的修改信息
 		//这是我的修改信息02
 		//这是我的修改信息03
-		//这是我的修改信息04
+		//本地Git2注入主脑
 		SpringApplication.run(Springboot01Application.class, args);
 	}
 
